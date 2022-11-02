@@ -2,7 +2,7 @@
 
 My first try on solving a DataCamp competition challenge. 
 
-This competition is called **Employee Network Analysis** and consists of the following 4 questions which are expected to be covered in form of a report:
+This competition is called **Employee Network Analysis** and consists of the following 4 questions that revolve around the topic of collaboration and should be addressed in the form of a report:
   1. Which departments are the most/least active?
   2. Which employee has the most connections? 
   3. Identify the most influential departments and employees.
